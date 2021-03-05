@@ -1,3 +1,14 @@
 # Kyoto - World Performance Analysis
 
-For the present project, the team decided to analyze the effects of world accords on global pollution, we quickly though of the Kyoto Protocol which is the most known global accord on health/pollution concerns issued by the UN. So, we did research and found that the main expectation of the accord was to reduce at least 5% contaminating emissions for the 2008/2012 period when compared to the level of emissions of 1990. So, the aim of this project is to find out if this objective was reached and how the air pollution has developed in the last years.
+Project performed to represent the levels of exposure to particulate matter 2.5 in countries belonging to the G7, G20, as well as the rest of the countries using different representative graphs. 
+For example: the next map shows the average exposure to particulate matter 2.5 (PM2.5) from 2010 to 2016. This map indicates the countries that are the most exposed to this particle. As we can observe, the countries most affected are India, Saudi Arabia, and some African nations as Niger, Egypt, and Chad.
+
+<img src="Visualizations/countries_most_affected.png" align="center">
+
+In addition, we can see in a different map, the average death rate:
+
+<img src="Visualizations/world_average_death_rate.png" align="center">
+
+Also, scatter plots was created to demonstrate the exposition to PM2.5 in different countries belonging to G7, G20, as well as the rest of the countries 
+
+<img src="Visualizations/corr_rest_countries_scatter.png" align="center">
